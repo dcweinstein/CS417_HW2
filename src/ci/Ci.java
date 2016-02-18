@@ -4,7 +4,7 @@ public class Ci {
 	public Ci() {
 		
 	}
-	public String hello_world() {
+	public string hello_world() {
 		return "Hello World!";
 	}
 }
