@@ -10,7 +10,7 @@ public class CiTest {
 	public void test() 
 	{
 		Ci ci = new Ci();
-		String string = ci.hello_world();
+		string string = ci.hello_world();
 		assertTrue("string = 'Hello World!", string.equals("Hello World!"));
 	}
 
